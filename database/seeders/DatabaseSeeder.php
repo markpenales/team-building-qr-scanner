@@ -16,6 +16,7 @@ class DatabaseSeeder extends Seeder
             [
                 YearSeeder::class,
                 SectionSeeder::class,
+                ProgramSeeder::class,
             ]
         );
     }
