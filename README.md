@@ -25,5 +25,13 @@ Clone the repository using Github Desktop or the command `git clone https://gith
 
 7. Start Solving the problem stated in the issue.
 
+## Creating a Pull Request
+1. Click this button found on top of the repository.
+
+   ![image](https://github.com/markpenales/team-building-qr-scanner/assets/63090671/e8959544-7dfb-4917-ba8c-d7bf359970f4)
+
+2. Add Description of what you changed
+
+3. Wait for a person to review the pull request
 
 
