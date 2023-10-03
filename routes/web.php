@@ -1,6 +1,13 @@
 <?php
 
+use App\Models\Extension;
+use App\Models\Program;
+use App\Models\Section;
+use App\Models\Student;
+use App\Models\StudentSection;
+use App\Models\Year;
 use Illuminate\Support\Facades\Route;
+use PhpOffice\PhpSpreadsheet\IOFactory;
 
 /*
 |--------------------------------------------------------------------------
@@ -14,5 +21,5 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view("welcome");
 });

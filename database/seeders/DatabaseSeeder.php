@@ -18,6 +18,7 @@ class DatabaseSeeder extends Seeder
                 SectionSeeder::class,
                 ProgramSeeder::class,
                 ExtensionSeeder::class,
+                StudentSeeder::class,
             ]
         );
     }
